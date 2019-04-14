@@ -2,7 +2,7 @@
 
 This is the code produced as part of the paper _Unsupervised Wafermap Patterns Clustering via Variational Autoencoders_ 
 
-> "Unsupervised Wafermap Patterns Clustering via Variational Autoencoders"
+> "Unsupervised Wafermap Patterns Clustering via Variational Autoencoders",
 > Peter Tulala*, Hamidreza Mahyar*, Elahe Ghalebi, Radu Grosu. in Proc The International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, Brazil, July 2018, pp. 1-8. (*Authors contributed equally)(Oral presentation) [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8489422)
 
 ## Packages needed
