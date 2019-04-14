@@ -27,12 +27,12 @@ Running experiments:
 
 ### `Wafermaps_PreProcessing.ipynb`
 
-This notebook is used for pre-proccesing of semiconductor wafermaps dataset. Data pre-processing is a crucial step addressing several data quality issues before applying the machine learning algorithm. The main goal of this step is to ensure that individual wafer measurements are comparable.  The result of data pre-processing step is a cleansed dataset that can be used for further feature extraction and clustering tasks.
+This notebook in `notebooks` folder is used for pre-proccesing of semiconductor wafermaps dataset. Data pre-processing is a crucial step addressing several data quality issues before applying the machine learning algorithm. The main goal of this step is to ensure that individual wafer measurements are comparable.  The result of data pre-processing step is a cleansed dataset that can be used for further feature extraction and clustering tasks.
 
 ### `Wafermaps_Variational_AutoEncoders.ipynb`
 
-This notebook is used for extracting meaningful information from the cleansed wafermap dataset,  based on auto-encoding variational Bayes. A variational autoencoder is trained on cleansed wafermaps to extract latent features. Then, we apply k-means clustering on latent features to group wafers based on a distant measure.
+This notebook in `notebooks` folder is used for extracting meaningful information from the cleansed wafermap dataset,  based on auto-encoding variational Bayes. A variational autoencoder is trained on cleansed wafermaps to extract latent features. Then, we apply k-means clustering on latent features to group wafers based on a distant measure.
 
 ## Docker
 
-Please check Run file.
+Please check `run_jupyter.sh` file.
