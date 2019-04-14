@@ -1,0 +1,13 @@
+jupyter
+pandas
+scipy
+scikit-image
+tqdm
+seaborn
+keras
+tensorflow
+np_utils
+sklearn
+gmm-mml
+pyclust
+treelib
