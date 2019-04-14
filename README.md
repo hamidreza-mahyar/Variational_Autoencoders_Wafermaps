@@ -1,4 +1,4 @@
-# Compressive Sensing of High Betweenness Centrality Nodes in Networks
+# Unsupervised Wafermap Patterns Clustering via Variational Autoencoders
 
 This is the code produced as part of the paper _Unsupervised Wafermap Patterns Clustering via Variational Autoencoders_ 
 
