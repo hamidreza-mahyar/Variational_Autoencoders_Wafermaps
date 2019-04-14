@@ -6,7 +6,7 @@ In this paper, we presented a machine learning approach for unsupervised cluster
 
 > Peter Tulala*, Hamidreza Mahyar*, Elahe Ghalebi, Radu Grosu, "Unsupervised Wafermap Patterns Clustering via Variational Autoencoders", in Proc The International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, Brazil, July 2018, pp. 1-8. (*Authors contributed equally)(Oral presentation) [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8489422)
 
-## Packages needed
+## Python Packages needed
 
  - `jupyter`
  - `scipy`
